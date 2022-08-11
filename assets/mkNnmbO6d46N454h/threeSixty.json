@@ -1,0 +1,29 @@
+{
+  "version": "3.37.21453.0",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5zAmJr6lj3T",
+      "title": "Arrastrar y soltar",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5XQ0gF4QRIw",
+      "title": "Diapositiva de resultados",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
